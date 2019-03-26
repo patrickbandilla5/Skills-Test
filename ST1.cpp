@@ -36,7 +36,7 @@ int main(){
     cout << "School Supplies: $" << schoolsupplies << endl;
     cout << "Savings Bonds: $" << individualbond << endl;
     cout << "Parents Bonds Co-Contribution: $" << parentsbond << endl;
-    
+    getch();
     
     return 0;
 }
